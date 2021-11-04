@@ -3,7 +3,7 @@ function addToCart(productName = "Elma", quantity) {
     console.log("Sepete eklendi: " + productName + " adet: " + quantity);
 }
 
-addToCart();
+addToCart(); 
 addToCart("Yumurta",10);
 addToCart(undefined, 15);
 
