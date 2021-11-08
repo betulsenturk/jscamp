@@ -1,3 +1,13 @@
+// ---------------------------JS Camp Week3----------------------------
+
+// components klasörü
+// crossCuttingConcerns klasörü
+// models klasörü
+// services klasörü
+// mapFilterReduce.js dosyası
+
+// ---------------------------End of JS Camp Week3----------------------------
+
 // ---------------------------JS Camp Week2----------------------------
 function addToCart(productName = "Elma", quantity) {
     console.log("Sepete eklendi: " + productName + " adet: " + quantity);
